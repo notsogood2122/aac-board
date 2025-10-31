@@ -15,7 +15,7 @@ const AACSolar = () => {
       categoryImage: "/images/communication.jpg",
       items: [
         { label: "Hello", icon: "/images/hello.png", audio: "hello.mp3" },
-        { label: "Good Morning", icon: "/images/Goodmorning.png", audio: "goodmorning.mp3" },
+        { label: "Good Morning", icon: "/images/Goodmorning.png", audio: "goodmorningg.mp3" },
         { label: "Good Evening", icon: "/images/Goodevening.png", audio: "goodevening.mp3" },
         { label: "Help", icon: "/images/help.png", audio: "help.mp3" },
         { label: "Thank You", icon: "/images/thank-you.png", audio: "thank-you.mp3" },
